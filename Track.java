@@ -6,7 +6,7 @@ public class Track {
 	String singer;
 	
 	public void play() {
-		System.out.println(song +"..."+ "playing by "+singer);
+		System.out.println(song +"..."+ "singing by "+singer);
 	}
 	
 	public static void main(String[] args) {
